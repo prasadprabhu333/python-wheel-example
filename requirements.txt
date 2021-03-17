@@ -1,0 +1,5 @@
+feedparser==6.0.2
+html2text==2020.1.16
+importlib-resources==5.1.2
+sgmllib3k==1.0.0
+typing==3.7.4.3
